@@ -7,7 +7,6 @@ var STATICMATRIX;
 var ASSETMANAGER;
 var FULLSCREEN = false;
 var INITIALSIZE;
-document.addEventListener("DOMContentLoaded", init);
 
 window.onerror = function(msg, url, line) {
   // TODO(Inspix): Fix this, it's so bad.
